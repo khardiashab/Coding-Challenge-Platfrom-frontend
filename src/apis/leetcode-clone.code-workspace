@@ -2,12 +2,6 @@
 	"folders": [
 		{
 			"path": "../.."
-		},
-		{
-			"path": "../../../leetcode-clone-youtube-master"
-		},
-		{
-			"path": "../../../dummy-auth-api"
 		}
 	],
 	"settings": {}
